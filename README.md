@@ -28,7 +28,8 @@ I'm currently a **Fresher** looking for exciting opportunities to kickstart my c
 
 ### 🔗 Connect with Me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/r4hu1s/)
-
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-%25230077B5.svg?style=for-the-badge&logo=Instagram&logoColor=pink-purple" />]
+(https://www.instagram.com/r4hu1_s/)
 ---
 
 ### 📈 Fun Facts:
