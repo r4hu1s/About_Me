@@ -27,12 +27,9 @@ I'm currently a **Fresher** looking for exciting opportunities to kickstart my c
 ---
 
 ### 🔗 Connect with Me
-[<img align="left" alt="linkedin" src="https://img.shields.io/badgelinkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" />](https://linkedin.com/in/r4hu1s/)
-[<img align="left" alt="Instagram" src="https://img.shields.io/badgelinkedin-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=purple" />](https://www.instagram.com/r4hu1_s/)
----
-<br>
----  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4)](https://www.instagram.com/r4hu1_s/)
+[<img align="left" alt="linked-in" src="![images](https://github.com/user-attachments/assets/c87375bc-ddd1-41ae-8c30-179d94df5297)
+&logoColor=white" />](https://linkedin.com/in/r4hu1s/)
+
 ---
 
 ### 📈 Fun Facts:
