@@ -1,4 +1,5 @@
-![WhatsApp Image 2024-11-11 at 15 45 48 (1)](https://github.com/user-attachments/assets/ed09fdaa-532f-418f-b7f0-a43b64d814dd)
+
+![Rahul_Singh](https://github.com/user-attachments/assets/51176c2b-1671-4ff8-8b47-449834f099e0)
 
 ### Hi there 👋, I'm Rahul Singh
 #### Data Enthusiast
