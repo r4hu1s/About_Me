@@ -1,5 +1,4 @@
-
-![Rahul_Singh](https://github.com/user-attachments/assets/51176c2b-1671-4ff8-8b47-449834f099e0)
+![Rahul_Singh)](https://github.com/user-attachments/assets/04b4d561-bf4d-4ba7-9d0b-03105b574b30)
 
 ### Hi there 👋, I'm Rahul Singh
 #### Data Enthusiast
