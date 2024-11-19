@@ -28,10 +28,7 @@ I'm currently a **Fresher** looking for exciting opportunities to kickstart my c
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/r4hu1s/)
----
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4hu1s&show_icons=true&theme=radical)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r4hu1s&layout=compact&theme=radical)](https://github.com/r4hu1s/github-readme-stats)
+---  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4)](https://www.instagram.com/r4hu1_s/)
 ---
 
